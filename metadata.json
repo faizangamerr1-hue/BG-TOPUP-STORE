@@ -1,0 +1,6 @@
+{
+  "name": "UGTOPUPS - Gaming Top-Up & Digital Services",
+  "description": "Nepal's #1 Digital Gaming Marketplace. Direct In-Game Top-Up, Free Fire Diamonds, PUBG UC & Digital Gift Cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

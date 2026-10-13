@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "BG TOPUP STORE - Gaming Top-Up & Digital Services",
+  "short_name": "BGTOPUP",
+  "description": "Nepal's #1 Digital Gaming Marketplace. Direct In-Game Top-Up, Free Fire Diamonds, PUBG UC & Digital Gift Cards.",
+  "theme_color": "#dc2626",
+  "background_color": "#090d16",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "categories": ["games", "shopping", "entertainment"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

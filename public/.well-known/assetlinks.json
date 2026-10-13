@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bgtopups.store",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:AC:6E:9E:C1:28:B6:5E:4F:9E:1F:B5:1D:95:6B:7E:6F:4A:2A:4E:9F:8B:7C:1E:5D:3A"
+      ]
+    }
+  }
+]
